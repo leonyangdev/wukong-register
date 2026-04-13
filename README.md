@@ -124,4 +124,4 @@ while True: \
 - 自动化脚本受系统缩放、分辨率、窗口布局影响较大，首次使用建议先手动验证一次流程。
 
 ## 友链
-- [linux.do](https://linux.do/)
+- [LINUX DO 社区](https://linux.do/)
